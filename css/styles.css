@@ -1,0 +1,154 @@
+html,
+body {
+    width: 100vw;
+    height: 90vh;
+}
+
+.page {
+    width: 100%;
+    height: 100%;
+}
+
+@media only screen {
+    #logo {
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: auto;
+        animation-duration: 4s;
+        -webkit-animation-duration: 4s;
+        -moz-animation-duration: 4s;
+        -o-animation-duration: 4s;
+        height: 300px;
+        width: auto;
+    }
+    #newLogo {
+        opacity: 0;
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: auto;
+        animation-duration: 2s;
+        -webkit-animation-duration: 2s;
+        -moz-animation-duration: 2s;
+        -o-animation-duration: 2s;
+        height: 300px;
+        width: auto;
+    }
+}
+
+@media only screen and (min-width: 40.063em) and (max-width: 64em) {
+    #logo {
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: auto;
+        animation-duration: 4s;
+        -webkit-animation-duration: 4s;
+        -moz-animation-duration: 4s;
+        -o-animation-duration: 4s;
+        height: 500px;
+        width: auto;
+    }
+    #newLogo {
+        opacity: 0;
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: auto;
+        animation-duration: 2s;
+        -webkit-animation-duration: 2s;
+        -moz-animation-duration: 2s;
+        -o-animation-duration: 2s;
+        height: 500px;
+        width: auto;
+    }
+}
+
+@media only screen and (min-width: 64.063em) and (max-width: 90em) {
+    #logo {
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: auto;
+        animation-duration: 4s;
+        -webkit-animation-duration: 4s;
+        -moz-animation-duration: 4s;
+        -o-animation-duration: 4s;
+        height: 600px;
+        width: auto;
+    }
+    #newLogo {
+        opacity: 0;
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: auto;
+        animation-duration: 2s;
+        -webkit-animation-duration: 2s;
+        -moz-animation-duration: 2s;
+        -o-animation-duration: 2s;
+        height: 600px;
+        width: auto;
+    }
+}
+
+@media only screen and (min-width: 90.063em) and (max-width: 120em) {
+    #logo {
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: auto;
+        animation-duration: 4s;
+        -webkit-animation-duration: 4s;
+        -moz-animation-duration: 4s;
+        -o-animation-duration: 4s;
+        height: 650px;
+        width: auto;
+    }
+    #newLogo {
+        opacity: 0;
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: auto;
+        animation-duration: 2s;
+        -webkit-animation-duration: 2s;
+        -moz-animation-duration: 2s;
+        -o-animation-duration: 2s;
+        height: 650px;
+        width: auto;
+    }
+}
+
+@media only screen and (min-width: 120.063em) {
+    #logo {
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: auto;
+        animation-duration: 4s;
+        -webkit-animation-duration: 4s;
+        -moz-animation-duration: 4s;
+        -o-animation-duration: 4s;
+        height: 700px;
+        width: auto;
+    }
+    #newLogo {
+        opacity: 0;
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: auto;
+        animation-duration: 2s;
+        -webkit-animation-duration: 2s;
+        -moz-animation-duration: 2s;
+        -o-animation-duration: 2s;
+        height: 700px;
+        width: auto;
+    }
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
