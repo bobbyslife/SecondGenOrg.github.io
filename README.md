@@ -1,5 +1,5 @@
 # SecondGen Website
-## Static SecondGen Website for non-members.
+Static SecondGen Website for non-members.
 ## Schedule
 June 5th - Ideation (Meeting 1)
 June 13th - Start Date (Meeting 2)
